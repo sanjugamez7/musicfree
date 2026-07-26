@@ -1,0 +1,3 @@
+- [x] Remove "Open supported links" from `SettingsScreen.kt`
+- [x] Remove "Changelog" from `SettingsScreen.kt`
+- [x] Verify build with `./gradlew :app:assembleFossDebug`
